@@ -3,7 +3,7 @@
 
 # 说明
 
-此思维导图是Easy(http://weibo.com/easy?is_all=1) 写《[程序员跳槽全攻略](http://t.cn/R7XRdYK)》时做的技能树，目前根据自己对Java的理解添加自己的技能树。
+此思维导图是[Easy](http://weibo.com/easy?is_all=1) 写《[程序员跳槽全攻略](http://t.cn/R7XRdYK)》时做的技能树，目前根据自己对Java的理解添加自己的技能树。
 
 
 图片版本 http://deerout.sinastorage.cn/sk.jpg
