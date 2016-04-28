@@ -3,8 +3,8 @@
 
 # 说明
 
-此思维导图是我在写作《[程序员跳槽全攻略](http://t.cn/R7XRdYK)》时做的技能树，目标是为大家提供一个学习和面试时的全局视角。
-因为个人经历限制，PHP和H5部分略细致，其他方面还比较粗糙，因此将其放到GitHub，期望各位同学可以补全自己分支的树。
+此思维导图是Easy(http://weibo.com/easy?is_all=1) 写《[程序员跳槽全攻略](http://t.cn/R7XRdYK)》时做的技能树，目前根据自己对Java的理解添加自己的技能树。
+
 
 图片版本 http://deerout.sinastorage.cn/sk.jpg
 
